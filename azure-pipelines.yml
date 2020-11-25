@@ -7,8 +7,8 @@ resources:
   repositories:
   - repository: AzureDevOps
     type: git
-    endpoint: AzureDevOps
-    name: AzureDevOps/AzureDevOps
+    endpoint: https://github.com/autobvt/azure-pipelines-tasks.git
+    name: autobvt/azure-pipelines-tasks
 
 jobs:
 
